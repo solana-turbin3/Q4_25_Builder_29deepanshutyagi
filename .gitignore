@@ -1,0 +1,12 @@
+# Repository-wide ignores for secrets and local artifacts
+# Wallet/key files
+*wallet.json
+*.keypair
+*.pem
+# Environment files
+.env
+.env.local
+# Node / Rust / build
+node_modules/
+/target
+dist/

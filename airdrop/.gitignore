@@ -1,0 +1,8 @@
+# Ignore wallet/key files and local build artifacts
+# Matches files like dev-wallet.json, Turbin3-wallet.json, etc.
+*wallet.json
+*.keypair
+*.pem
+.env
+node_modules/
+dist/
