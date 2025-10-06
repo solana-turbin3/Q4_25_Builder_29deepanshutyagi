@@ -1,2 +1,0 @@
-0000000000000000000000000000000000000000 84edc2776f4a4980c6337dbcd7e9fb392565d339 29deepanshutyagi <29deepanshutyagi@gmail.com> 1759779153 +0530	commit (initial): chore: ignore dev-wallet.json and secrets
-84edc2776f4a4980c6337dbcd7e9fb392565d339 a04064e290c0cccb54d2ca4614e8df56e6c95587 29deepanshutyagi <29deepanshutyagi@gmail.com> 1759779153 +0530	commit: feat: add airdrop2 Rust code (no secrets)

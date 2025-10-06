@@ -1,7 +1,0 @@
-# Ignore Rust/Cargo build artifacts and local secrets
-# Ignore development wallets and secret files
-/target
-dev-wallet.json
-*.keypair
-*.pem
-.env
